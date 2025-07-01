@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anurag059/DSA-2K25/tree/master/0002-add-two-numbers) |
+| [0908-middle-of-the-linked-list](https://github.com/Anurag059/DSA-2K25/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anurag059/DSA-2K25/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurag059/DSA-2K25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Anurag059/DSA-2K25/tree/master/0283-move-zeroes) |
+| [0908-middle-of-the-linked-list](https://github.com/Anurag059/DSA-2K25/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Anurag059/DSA-2K25/tree/master/0941-sort-array-by-parity) |
 ## Sorting
 |  |
