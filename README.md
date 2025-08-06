@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Anurag059/DSA-2K25/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Anurag059/DSA-2K25/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Anurag059/DSA-2K25/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/Anurag059/DSA-2K25/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurag059/DSA-2K25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Anurag059/DSA-2K25/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anurag059/DSA-2K25/tree/master/0283-move-zeroes) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anurag059/DSA-2K25/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Anurag059/DSA-2K25/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
