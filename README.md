@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Anurag059/DSA-2K25/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anurag059/DSA-2K25/tree/master/1019-squares-of-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Anurag059/DSA-2K25/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Anurag059/DSA-2K25/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anurag059/DSA-2K25/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anurag059/DSA-2K25/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Anurag059/DSA-2K25/tree/master/0268-missing-number) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Anurag059/DSA-2K25/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Anurag059/DSA-2K25/tree/master/0455-assign-cookies) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Anurag059/DSA-2K25/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
