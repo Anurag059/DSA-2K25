@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Anurag059/DSA-2K25/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Anurag059/DSA-2K25/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Anurag059/DSA-2K25/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/Anurag059/DSA-2K25/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Anurag059/DSA-2K25/tree/master/0643-maximum-average-subarray-i) |
 | [0941-sort-array-by-parity](https://github.com/Anurag059/DSA-2K25/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anurag059/DSA-2K25/tree/master/1019-squares-of-a-sorted-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anurag059/DSA-2K25/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anurag059/DSA-2K25/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Anurag059/DSA-2K25/tree/master/0268-missing-number) |
+| [0575-distribute-candies](https://github.com/Anurag059/DSA-2K25/tree/master/0575-distribute-candies) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anurag059/DSA-2K25/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
