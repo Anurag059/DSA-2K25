@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anurag059/DSA-2K25/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Anurag059/DSA-2K25/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/Anurag059/DSA-2K25/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Anurag059/DSA-2K25/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anurag059/DSA-2K25/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Anurag059/DSA-2K25/tree/master/0326-power-of-three) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anurag059/DSA-2K25/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/Anurag059/DSA-2K25/tree/master/0072-edit-distance) |
+| [0171-excel-sheet-column-number](https://github.com/Anurag059/DSA-2K25/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Anurag059/DSA-2K25/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Anurag059/DSA-2K25/tree/master/0742-to-lower-case) |
 ## Sliding Window
