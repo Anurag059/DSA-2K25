@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Anurag059/DSA-2K25/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Anurag059/DSA-2K25/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Anurag059/DSA-2K25/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anurag059/DSA-2K25/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Anurag059/DSA-2K25/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurag059/DSA-2K25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Anurag059/DSA-2K25/tree/master/0217-contains-duplicate) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anurag059/DSA-2K25/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/Anurag059/DSA-2K25/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anurag059/DSA-2K25/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
