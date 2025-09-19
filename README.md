@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Anurag059/DSA-2K25/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Anurag059/DSA-2K25/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Anurag059/DSA-2K25/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Anurag059/DSA-2K25/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Anurag059/DSA-2K25/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Anurag059/DSA-2K25/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Anurag059/DSA-2K25/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Anurag059/DSA-2K25/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Anurag059/DSA-2K25/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Anurag059/DSA-2K25/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anurag059/DSA-2K25/tree/master/0342-power-of-four) |
 ## String
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anurag059/DSA-2K25/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Anurag059/DSA-2K25/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurag059/DSA-2K25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Anurag059/DSA-2K25/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Anurag059/DSA-2K25/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anurag059/DSA-2K25/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Anurag059/DSA-2K25/tree/master/0455-assign-cookies) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anurag059/DSA-2K25/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/Anurag059/DSA-2K25/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
