@@ -1,45 +1,44 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        if (head == null || head.next == null) {
-            return true;
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+
         }
-        
-        // Step 1: Find the middle of the linked list
-        ListNode slow = head;
-        ListNode fast = head;
-        
-        while (fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
+        fast=head;
+
+        // yaha se list reverse kr rhee h hum
+        ListNode prev=null;
+        while(slow!= null){
+            ListNode next=slow.next;
+            slow.next=prev;
+            prev=slow;
+            slow=next;
         }
-        
-        // Step 2: Reverse the second half of the linked list
-        ListNode secondHalf = reverseList(slow);
-        ListNode firstHalf = head;
-        
-        // Step 3: Compare the first half with the reversed second half
-        while (secondHalf != null) {
-            if (firstHalf.val != secondHalf.val) {
+        slow=prev;
+
+        while(slow!=null){
+            if(slow.val!=fast.val){
                 return false;
+
             }
-            firstHalf = firstHalf.next;
-            secondHalf = secondHalf.next;
+            slow=slow.next;
+            fast=fast.next;
         }
-        
         return true;
-    }
-    
-    private ListNode reverseList(ListNode head) {
-        ListNode prev = null;
-        ListNode current = head;
+
         
-        while (current != null) {
-            ListNode nextNode = current.next;
-            current.next = prev;
-            prev = current;
-            current = nextNode;
-        }
-        
-        return prev;
     }
 }
