@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anurag059/DSA-2K25/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Anurag059/DSA-2K25/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Anurag059/DSA-2K25/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Anurag059/DSA-2K25/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Anurag059/DSA-2K25/tree/master/0231-power-of-two) |
