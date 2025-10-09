@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anurag059/DSA-2K25/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Anurag059/DSA-2K25/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anurag059/DSA-2K25/tree/master/0342-power-of-four) |
+| [1048-clumsy-factorial](https://github.com/Anurag059/DSA-2K25/tree/master/1048-clumsy-factorial) |
 ## Recursion
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anurag059/DSA-2K25/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Anurag059/DSA-2K25/tree/master/0234-palindrome-linked-list) |
+| [1048-clumsy-factorial](https://github.com/Anurag059/DSA-2K25/tree/master/1048-clumsy-factorial) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Anurag059/DSA-2K25/tree/master/0200-number-of-islands) |
+## Simulation
+|  |
+| ------- |
+| [1048-clumsy-factorial](https://github.com/Anurag059/DSA-2K25/tree/master/1048-clumsy-factorial) |
 <!---LeetCode Topics End-->
