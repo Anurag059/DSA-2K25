@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anurag059/DSA-2K25/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Anurag059/DSA-2K25/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Anurag059/DSA-2K25/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Anurag059/DSA-2K25/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Anurag059/DSA-2K25/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Anurag059/DSA-2K25/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Anurag059/DSA-2K25/tree/master/0643-maximum-average-subarray-i) |
