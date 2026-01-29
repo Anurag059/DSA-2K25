@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Anurag059/DSA-2K25/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anurag059/DSA-2K25/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurag059/DSA-2K25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Anurag059/DSA-2K25/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Anurag059/DSA-2K25/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Anurag059/DSA-2K25/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anurag059/DSA-2K25/tree/master/0219-contains-duplicate-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Anurag059/DSA-2K25/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Anurag059/DSA-2K25/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Anurag059/DSA-2K25/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/Anurag059/DSA-2K25/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Anurag059/DSA-2K25/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anurag059/DSA-2K25/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Anurag059/DSA-2K25/tree/master/0326-power-of-three) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anurag059/DSA-2K25/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Anurag059/DSA-2K25/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurag059/DSA-2K25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Anurag059/DSA-2K25/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Anurag059/DSA-2K25/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Anurag059/DSA-2K25/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anurag059/DSA-2K25/tree/master/0344-reverse-string) |
