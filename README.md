@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Anurag059/DSA-2K25/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anurag059/DSA-2K25/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurag059/DSA-2K25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Anurag059/DSA-2K25/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anurag059/DSA-2K25/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Anurag059/DSA-2K25/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Anurag059/DSA-2K25/tree/master/0217-contains-duplicate) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anurag059/DSA-2K25/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anurag059/DSA-2K25/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Anurag059/DSA-2K25/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Anurag059/DSA-2K25/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anurag059/DSA-2K25/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anurag059/DSA-2K25/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Anurag059/DSA-2K25/tree/master/0268-missing-number) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anurag059/DSA-2K25/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Anurag059/DSA-2K25/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anurag059/DSA-2K25/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anurag059/DSA-2K25/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Anurag059/DSA-2K25/tree/master/0414-third-maximum-number) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anurag059/DSA-2K25/tree/master/0169-majority-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anurag059/DSA-2K25/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting Sort
 |  |
@@ -194,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-clumsy-factorial](https://github.com/Anurag059/DSA-2K25/tree/master/1048-clumsy-factorial) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anurag059/DSA-2K25/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
