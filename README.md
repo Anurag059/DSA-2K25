@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Anurag059/DSA-2K25/tree/master/1019-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anurag059/DSA-2K25/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Anurag059/DSA-2K25/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Anurag059/DSA-2K25/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Anurag059/DSA-2K25/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Anurag059/DSA-2K25/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Anurag059/DSA-2K25/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anurag059/DSA-2K25/tree/master/1019-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Anurag059/DSA-2K25/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-clumsy-factorial](https://github.com/Anurag059/DSA-2K25/tree/master/1048-clumsy-factorial) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Anurag059/DSA-2K25/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
