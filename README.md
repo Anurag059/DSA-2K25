@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Anurag059/DSA-2K25/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Anurag059/DSA-2K25/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Anurag059/DSA-2K25/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Anurag059/DSA-2K25/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Anurag059/DSA-2K25/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anurag059/DSA-2K25/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/Anurag059/DSA-2K25/tree/master/0941-sort-array-by-parity) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anurag059/DSA-2K25/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurag059/DSA-2K25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Anurag059/DSA-2K25/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Anurag059/DSA-2K25/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Anurag059/DSA-2K25/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anurag059/DSA-2K25/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
