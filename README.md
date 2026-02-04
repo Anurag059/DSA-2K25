@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anurag059/DSA-2K25/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Anurag059/DSA-2K25/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Anurag059/DSA-2K25/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Anurag059/DSA-2K25/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Anurag059/DSA-2K25/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anurag059/DSA-2K25/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Anurag059/DSA-2K25/tree/master/0136-single-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anurag059/DSA-2K25/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anurag059/DSA-2K25/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Anurag059/DSA-2K25/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Anurag059/DSA-2K25/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Anurag059/DSA-2K25/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anurag059/DSA-2K25/tree/master/0217-contains-duplicate) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Anurag059/DSA-2K25/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Anurag059/DSA-2K25/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
