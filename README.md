@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anurag059/DSA-2K25/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anurag059/DSA-2K25/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Anurag059/DSA-2K25/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Anurag059/DSA-2K25/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Anurag059/DSA-2K25/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Anurag059/DSA-2K25/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Anurag059/DSA-2K25/tree/master/0073-set-matrix-zeroes) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anurag059/DSA-2K25/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Anurag059/DSA-2K25/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Anurag059/DSA-2K25/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Anurag059/DSA-2K25/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Anurag059/DSA-2K25/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Anurag059/DSA-2K25/tree/master/0189-rotate-array) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Anurag059/DSA-2K25/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Anurag059/DSA-2K25/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Anurag059/DSA-2K25/tree/master/0200-number-of-islands) |
 ## Simulation
