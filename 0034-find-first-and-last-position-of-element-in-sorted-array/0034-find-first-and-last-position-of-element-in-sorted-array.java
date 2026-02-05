@@ -20,7 +20,7 @@ class Solution {
 
             if (arr[mid] == target) {
                 result = mid;
-                high = mid - 1;   // left search
+                high = mid - 1;   //left search
             } else if (arr[mid] < target) {
                 low = mid + 1;
             } else {
