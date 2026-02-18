@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Anurag059/DSA-2K25/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Anurag059/DSA-2K25/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Anurag059/DSA-2K25/tree/master/0742-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/Anurag059/DSA-2K25/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anurag059/DSA-2K25/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Anurag059/DSA-2K25/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Anurag059/DSA-2K25/tree/master/1021-remove-outermost-parentheses) |
 | [1048-clumsy-factorial](https://github.com/Anurag059/DSA-2K25/tree/master/1048-clumsy-factorial) |
 ## Monotonic Stack
 |  |
