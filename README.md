@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Anurag059/DSA-2K25/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anurag059/DSA-2K25/tree/master/0342-power-of-four) |
 | [1048-clumsy-factorial](https://github.com/Anurag059/DSA-2K25/tree/master/1048-clumsy-factorial) |
+| [1903-largest-odd-number-in-string](https://github.com/Anurag059/DSA-2K25/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Anurag059/DSA-2K25/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Anurag059/DSA-2K25/tree/master/0742-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/Anurag059/DSA-2K25/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Anurag059/DSA-2K25/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Anurag059/DSA-2K25/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Anurag059/DSA-2K25/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Anurag059/DSA-2K25/tree/master/0561-array-partition) |
+| [1903-largest-odd-number-in-string](https://github.com/Anurag059/DSA-2K25/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
 | ------- |
