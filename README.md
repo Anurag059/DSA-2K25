@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Anurag059/DSA-2K25/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Anurag059/DSA-2K25/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Anurag059/DSA-2K25/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Anurag059/DSA-2K25/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Anurag059/DSA-2K25/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anurag059/DSA-2K25/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Anurag059/DSA-2K25/tree/master/0268-missing-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anurag059/DSA-2K25/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anurag059/DSA-2K25/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Anurag059/DSA-2K25/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/Anurag059/DSA-2K25/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Anurag059/DSA-2K25/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Anurag059/DSA-2K25/tree/master/0742-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/Anurag059/DSA-2K25/tree/master/1021-remove-outermost-parentheses) |
