@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Anurag059/DSA-2K25/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Anurag059/DSA-2K25/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anurag059/DSA-2K25/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Anurag059/DSA-2K25/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anurag059/DSA-2K25/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Anurag059/DSA-2K25/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Anurag059/DSA-2K25/tree/master/0575-distribute-candies) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Anurag059/DSA-2K25/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Anurag059/DSA-2K25/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Anurag059/DSA-2K25/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Anurag059/DSA-2K25/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anurag059/DSA-2K25/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Anurag059/DSA-2K25/tree/master/0742-to-lower-case) |
 | [0796-rotate-string](https://github.com/Anurag059/DSA-2K25/tree/master/0796-rotate-string) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Anurag059/DSA-2K25/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Anurag059/DSA-2K25/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anurag059/DSA-2K25/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Anurag059/DSA-2K25/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anurag059/DSA-2K25/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Anurag059/DSA-2K25/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Anurag059/DSA-2K25/tree/master/0455-assign-cookies) |
